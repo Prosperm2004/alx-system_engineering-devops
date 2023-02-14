@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -iA 3 "root" | wc -l
+grep -iA 3 "root"
